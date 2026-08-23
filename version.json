@@ -1,12 +1,12 @@
 {
   "version": "2.5.0",
   "releaseDate": "2026-08-24",
-  "title": "TAYBLABO Desktop",
-  "description": "Mise à jour TAYBLABO",
+  "title": "TAYBLABO Desktop 2.5.0",
+  "description": "تحديث جديد لبرنامج TAYBLABO Desktop",
   "changelog": [
-    "Amélioration de la stabilité",
-    "Corrections de bugs",
-    "Amélioration du système de laboratoire"
+    "إصلاحات وتحسينات عامة",
+    "تحسين استقرار البرنامج",
+    "تحسينات الشبكة المحلية LAN"
   ],
-  "downloadUrl": ""
+  "downloadUrl": "https://drive.google.com/uc?export=download&id=1S9nblfjvQP3Pw2onjHGjPl_w7jdELHtx"
 }
