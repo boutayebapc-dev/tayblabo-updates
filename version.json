@@ -1,0 +1,12 @@
+{
+  "version": "2.5.0",
+  "releaseDate": "2026-08-24",
+  "title": "TAYBLABO Desktop",
+  "description": "Mise à jour TAYBLABO",
+  "changelog": [
+    "Amélioration de la stabilité",
+    "Corrections de bugs",
+    "Amélioration du système de laboratoire"
+  ],
+  "downloadUrl": ""
+}
