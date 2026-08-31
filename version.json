@@ -1,5 +1,5 @@
 {
-  "version": "2.8.5",
+  "version": "2.8.6",
   "releaseDate": "2026-08-29",
   "title": "TAYBLABO Desktop v2.8.3 — الدعم الشامل لطابعات التذاكر الحرارية، المجال المرجعي للأطفال، وأوراق العمل الذكية",
   "description": "تحديث رئيسي شامل يتضمن دعماً كاملاً لطابعات التذاكر الحرارية (Xprinter 80mm)، التوافق التام للمجالات المرجعية للأطفال والحوامل، الطباعة الذكية لأوراق العمل اليومية، والدعم المزدوج لأجهزة الهيماتولوجي 3-Diff و 5-Diff.",
@@ -15,6 +15,6 @@
     "🔬 الدعم المزدوج الشامل لكافة أجهزة تعداد الدم (Automates 3-Diff & 5-Diff) مثل Mindray, Sysmex, Dirui, Beckman, Horiba مع 27 معياراً دولياً ICSH",
     "🖤 تحسين جودة الطباعة العالية والتباين العميق (Crisp Dark Black) لجميع التقارير والفواتير وبطاقات الزمر الدموية"
   ],
-  "downloadUrl": "https://drive.google.com/file/d/1QZ_eszMpvnxK3MiXmBPkjfJpHmbUhSGR/view?usp=sharing",
+  "downloadUrl": "https://drive.google.com/file/d/1sWQAEdcA_5devf7xPQXS-V_U_xUOeExk/view?usp=sharing",
   "isMandatory": false
 }
